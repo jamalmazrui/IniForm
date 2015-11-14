@@ -1,0 +1,2 @@
+[[Notes]]
+This is some text that should wrap, showing how multiple lines may be written in this control.
